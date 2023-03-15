@@ -2,7 +2,11 @@
 
 Submitted by: **Vasanth Banumurthy**
 
-You've heard of Rotten Tomatoes. Now feast your eyes on **Fresh Carrots**, a movie browsing app that allows users to browse movies fresh into theaters.
+<img src="./extras/logo.png" width="200" height="200"/>
+
+You've heard of [Rotten Tomatoes](https://www.rottentomatoes.com/). Now feast your eyes on **Fresh Carrots**, a movie browsing app that allows users to browse movies fresh into theaters.
+
+<img src="./extras/launch.gif" width="200" height="400"/>
 
 Time spent: **4** hours spent in total
 
@@ -14,6 +18,8 @@ The following **required** functionality is completed:
 - [X] **Parse through JSON data and implement a RecyclerView to display all movies**
 - [X] **Use Glide to load and display movie poster images**
 
+<img src="./extras/portrait.gif" width="200" height="400"/>
+
 The following **optional** features are implemented:
 
 - [X] Improve and customize the user interface through styling and coloring
@@ -21,6 +27,8 @@ The following **optional** features are implemented:
   - App should neatly arrange data in both landscape and portrait mode
 - [X] Implement Glide to display placeholder graphics during loading
   - Note: this feature is difficult to capture in a GIF without throttling internet speeds.  Instead, include an additional screencap of your Glide code implementing the feature.  (<10 lines of code)
+  
+<img src="./extras/landscape.gif" width="200" height="400"/>
 
 The following **additional** features are implemented:
 
@@ -29,12 +37,10 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with EZGIF 
+GIFs created with [EZGIF ](https://ezgif.com/)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows

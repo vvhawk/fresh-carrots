@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FreshCarrots" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/carrot</item>
+        <item name="colorPrimaryVariant">@color/carrot</item>
+        <item name="colorOnPrimary">@color/carrot</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/carrot</item>
+        <item name="colorSecondaryVariant">@color/carrot</item>
+        <item name="colorOnSecondary">@color/carrot</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/leaf</item>
+        <!-- Customize your theme here. -->
+
+        <item name="android:fontFamily">@font/courier_prime</item>
+
+    </style>
+
+    <style name="SplashScreenTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/leaf</item>
+        <item name="colorPrimaryVariant">@color/leaf</item>
+        <item name="colorOnPrimary">@color/leaf</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/leaf</item>
+        <item name="colorSecondaryVariant">@color/leaf</item>
+        <item name="colorOnSecondary">@color/leaf</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/leaf</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

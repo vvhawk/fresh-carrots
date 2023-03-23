@@ -1,4 +1,4 @@
-# Android Project 3 - *Fresh Carrots*
+# Android Project 3 + 4 - *Fresh Carrots*
 
 Submitted by: **Vasanth Banumurthy**
 
@@ -10,11 +10,13 @@ You've heard of [Rotten Tomatoes](https://www.rottentomatoes.com/). Now feast yo
 
 Time spent: **6** hours spent in for project 3, **2** hours for project 4
 
-
+<img src="./extras/launch.gif" width="200" height="400"/>
 
 ## Required Features
 
 The following **required** functionality is completed:
+
+
 
 - [X] **Choose any endpoint on The MovieDB API except `now_playing`**
   - Chosen Endpoint: [Trending](https://developers.themoviedb.org/3/trending/get-trending) Actors
@@ -27,6 +29,11 @@ The following **optional** features are implemented:
 - [ ] **Add another API call and RecyclerView that lets the user interact with different data.** 
 - [X] **Add rounded corners to the images using the Glide transformations**
 - [ ] **Implement a shared element transition when user clicks into the details of a movie**
+
+## Notes
+
+Had trouble implementing details screen with intents. 
+Confusion with data classes vs classes and @Serial used in lab 4 vs @Serialized used in lab 3
 
 The old funtionality is kept in tact:
 

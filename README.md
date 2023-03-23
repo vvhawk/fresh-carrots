@@ -4,11 +4,11 @@ Submitted by: **Vasanth Banumurthy**
 
 <img src="./extras/logo.png" width="200" height="200"/>
 
-You've heard of [Rotten Tomatoes](https://www.rottentomatoes.com/). Now feast your eyes on **Fresh Carrots**, a movie browsing app that allows users to browse movies fresh into theaters.
+You've heard of [Rotten Tomatoes](https://www.rottentomatoes.com/). Now feast your eyes on **Fresh Carrots**, a movie browsing app that allows users to browse new movies and trending actors. 
 
 <img src="./extras/launch.gif" width="200" height="400"/>
 
-Time spent: **4** hours spent in total
+Time spent: **6** hours spent in for project 3, **2** hours for project 4
 
 
 
@@ -16,16 +16,16 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **Choose any endpoint on The MovieDB API except `now_playing`**
-  - Chosen Endpoint: `[TODO: FILL ME IN TO GET CREDIT]`
-- [] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
-- [ ] **Use Glide to load and display at least one image per entry**
+- [X] **Choose any endpoint on The MovieDB API except `now_playing`**
+  - Chosen Endpoint: [Trending](https://developers.themoviedb.org/3/trending/get-trending) Actors
+- [X] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
+- [X] **Use Glide to load and display at least one image per entry**
 - [ ] **Click on an entry to view specific details about that entry using Intents**
 
 The following **optional** features are implemented:
 
 - [ ] **Add another API call and RecyclerView that lets the user interact with different data.** 
-- [ ] **Add rounded corners to the images using the Glide transformations**
+- [X] **Add rounded corners to the images using the Glide transformations**
 - [ ] **Implement a shared element transition when user clicks into the details of a movie**
 
 The old funtionality is kept in tact:

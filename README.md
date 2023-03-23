@@ -8,7 +8,7 @@ You've heard of [Rotten Tomatoes](https://www.rottentomatoes.com/). Now feast yo
 
 <img src="./extras/launch.gif" width="200" height="400"/>
 
-Time spent: **6** hours spent in for project 3, **2** hours for project 4
+Time spent: **6** hours spent in for project 3, **4** hours for project 4
 
 <img src="./extras/four.gif" width="200" height="400"/>
 

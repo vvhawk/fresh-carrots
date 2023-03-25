@@ -1,14 +1,24 @@
-# Android Project 3 + 4 - *Fresh Carrots*
+# Fresh Carrots
 
-Submitted by: **Vasanth Banumurthy**
+<p align="center">
+  <img src="./extras/logo.png" width="200" height="200"/>
+</p>
 
-<img src="./extras/logo.png" width="200" height="200"/>
 
-You've heard of [Rotten Tomatoes](https://www.rottentomatoes.com/). Now feast your eyes on **Fresh Carrots**, a movie browsing app that allows users to browse new movies and trending actors. 
+You've heard of [Rotten Tomatoes](https://www.rottentomatoes.com/). Now feast your eyes on **Fresh Carrots**, a movie browsing app that allows users to browse the latest in Movies, TV, and People. What makes the app unique? Well, I think theres something powerful about words. Paired with a captivating poster, that’s all you need to invite the audience to click.  
+
+**Fresh Carrots is simple yet functional; and elegant solution to the timeless question: What do I watch?**
+
+With everything I create, I strive to give it a pretty face. Design is essential to me. The basis for this design was to capture the aesthetics of a carrot. Why carrots, you ask? Well, because tomatoes were taken. 🙃
+
+*Note*:  
+This app is still a work in progress. It initially started as a project for [CodePath's](https://www.codepath.org/) [Android Development Pathway](https://www.codepath.org/courses/android-development). I'm working to add more functionality. The Plan...
+- Add the ability to click into movies/shows/people to display further details. 
+- Add search functionality
+- Publish app to Google Play Store
 
 <img src="./extras/launch.gif" width="200" height="400"/>
 
-Time spent: **6** hours spent in for project 3, **4** hours for project 4
 
 <img src="./extras/four.gif" width="200" height="400"/>
 

@@ -15,61 +15,29 @@ With everything I create, I strive to give it a pretty face. Design is essential
 This app is still a work in progress. It initially started as a project for [CodePath's](https://www.codepath.org/) [Android Development Pathway](https://www.codepath.org/courses/android-development). I'm working to add more functionality. The Plan...
 - Add the ability to click into movies/shows/people to display further details. 
 - Add search functionality
-- Publish app to Google Play Store
 
 <img src="./extras/launch.gif" width="200" height="400"/>
 
 
 <img src="./extras/four.gif" width="200" height="400"/>
 
-## Required Features
+## Progress
 
 The following **required** functionality is completed:
 
 
 
-- [X] **Choose any endpoint on The MovieDB API except `now_playing`**
-  - Chosen Endpoint: [Trending](https://developers.themoviedb.org/3/trending/get-trending) Actors
-- [X] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
+
+- [X] **Make a request to The Movie Database API's and implement a RecyclerView to display all entries**
+- [X] **Parse through JSON data and implement a RecyclerView to display all movies**
 - [X] **Use Glide to load and display at least one image per entry**
-- [ ] **Click on an entry to view specific details about that entry using Intents**
-
-The following **optional** features are implemented:
-
-- [ ] **Add another API call and RecyclerView that lets the user interact with different data.** 
+- [ ] **Click on an entry to view specific details about that entry using Intents** 
 - [X] **Add rounded corners to the images using the Glide transformations**
 - [ ] **Implement a shared element transition when user clicks into the details of a movie**
-
-## Notes
-
-Had trouble implementing details screen with intents. 
-Confusion with data classes vs classes and @Serial used in lab 4 vs @Serialized used in lab 3
-
-The old funtionality is kept in tact:
-
-- [X] **Make a request to [The Movie Database API's `now_playing`](https://developers.themoviedb.org/3/movies/get-now-playing) endpoint to get a list of current movies**
-- [X] **Parse through JSON data and implement a RecyclerView to display all movies**
-- [X] **Use Glide to load and display movie poster images**
-
-<img src="./extras/portrait.gif" width="200" height="400"/>
-
-The following **optional** features are implemented:
-
 - [X] Improve and customize the user interface through styling and coloring
 - [X] Implement orientation responsivity
-  - App should neatly arrange data in both landscape and portrait mode
-- [X] Implement Glide to display placeholder graphics during loading
-  - Note: this feature is difficult to capture in a GIF without throttling internet speeds.  Instead, include an additional screencap of your Glide code implementing the feature.  (<10 lines of code)
+- [X] Use Glide to display placeholder graphics during loading
   
-<img src="./extras/landscape.gif" width="200" height="400"/>
-
-The following **additional** features are implemented:
-
-- [X] Logo/App Icon
-- [X] SplashScreen
-
-## Video Walkthrough
-
 
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -79,11 +47,6 @@ GIFs created with [EZGIF ](https://ezgif.com/)
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
-Working with json arrays and formatting
 
 ## License
 

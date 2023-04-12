@@ -12,31 +12,30 @@ You've heard of [Rotten Tomatoes](https://www.rottentomatoes.com/). Now feast yo
 With everything I create, I strive to give it a pretty face. Design is essential to me. The basis for this design was to capture the aesthetics of a carrot. Why carrots, you ask? Well, because tomatoes were taken. 🙃
 
 *Note*:  
-This app is still a work in progress. It initially started as a project for [CodePath's](https://www.codepath.org/) [Android Development Pathway](https://www.codepath.org/courses/android-development). I'm working to add more functionality. The Plan...
-- Add the ability to click into movies/shows/people to display further details. 
-- Add search functionality
+This app is still a work in progress. It initially started as a project for [CodePath's](https://www.codepath.org/) [Android Development Pathway](https://www.codepath.org/courses/android-development).
 
 <img src="./extras/launch.gif" width="200" height="400"/>
 
 
 <img src="./extras/four.gif" width="200" height="400"/>
 
-## Progress
+## Completed
 
-The following **required** functionality is completed:
-
-
-
-
-- [X] **Make a request to The Movie Database API's and implement a RecyclerView to display all entries**
-- [X] **Parse through JSON data and implement a RecyclerView to display all movies**
-- [X] **Use Glide to load and display at least one image per entry**
-- [ ] **Click on an entry to view specific details about that entry using Intents** 
-- [X] **Add rounded corners to the images using the Glide transformations**
-- [ ] **Implement a shared element transition when user clicks into the details of a movie**
+- [X] Make a request to The Movie Database API's and implement a RecyclerView to display all entries
+- [X] Monitor 3 endpoints: Trending Movies, TV, and People
+- [X] Parse through JSON data and implement a RecyclerView to display all data
+- [X] Use Glide to load and display at least one image per entry
+- [X] Add rounded corners to the images using the Glide transformations
+- [X] Use Glide to display placeholder graphics during loading
 - [X] Improve and customize the user interface through styling and coloring
 - [X] Implement orientation responsivity
-- [X] Use Glide to display placeholder graphics during loading
+
+
+
+## Ongoing
+- [ ] Click on an entry to view specific details about that entry using Intents
+- [ ] Implement a shared element transition when user clicks into the details of a movie
+- [ ] Search
   
 
 

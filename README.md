@@ -14,10 +14,10 @@ With everything I create, I strive to give it a pretty face. Design is essential
 *Note*:  
 This app is still a work in progress. It initially started as a project for [CodePath's](https://www.codepath.org/) [Android Development Pathway](https://www.codepath.org/courses/android-development).
 
-<img src="./extras/launch.gif" width="200" height="400"/>
+<img src="./extras/overview.gif" width="200" height="400"/>
 
 
-<img src="./extras/four.gif" width="200" height="400"/>
+<img src="./extras/orientation.gif" width="200" height="400"/>
 
 ## Completed
 

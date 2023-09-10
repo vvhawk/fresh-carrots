@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity()
             when (it.itemId) {
                 R.id.ic_films -> replaceFragment(NowPlayingMoviesFragment())
                 R.id.ic_actors -> replaceFragment(NowTrendingActorsFragment())
+                R.id.ic_shows -> replaceFragment(NowPlayingShowsFragment())
             }
             true
         }

@@ -3,10 +3,16 @@
     <item
         android:id="@+id/ic_films"
         android:icon="@drawable/films"
-        android:title="Films" />
+        android:title="Movies" />
+
+    <item
+        android:id="@+id/ic_shows"
+        android:icon="@drawable/shows"
+        android:title="Shows" />
 
     <item
         android:id="@+id/ic_actors"
         android:icon="@drawable/actors"
         android:title="People" />
+
 </menu>

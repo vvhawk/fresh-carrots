@@ -60,7 +60,7 @@ class NowTrendingActorsRecyclerViewAdapter(
         Glide.with(holder.mView)
             .load("https://image.tmdb.org/t/p/w500/" + actor.profile)
             .placeholder(R.drawable.carrot)
-            .centerCrop().transform(RoundedCorners(200))
+            .centerCrop().transform(RoundedCorners(50))
             .into(holder.mActorProfile)
 
 
